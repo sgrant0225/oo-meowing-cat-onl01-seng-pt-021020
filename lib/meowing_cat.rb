@@ -3,4 +3,3 @@ class Cat
  
 end  
 
-puts "meow!"
